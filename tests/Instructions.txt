@@ -1,0 +1,2 @@
+To run any test, go inside the src folder and make the binary as follows
+gcc test-test_number.c ../../gtthread.c -w  -o test-test_number
